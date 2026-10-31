@@ -513,7 +513,7 @@
 		"WHITE_630": "$subtle"
 	},
 	"background": {
-		"url": "https://i.postimg.cc/nr7T3bJ1/rosepine-flowers.avif",
+		"url": $("https://raw.githubusercontent.com/rose-pine/discord-mobile/main/Assets/V06yN.png"|"https://raw.githubusercontent.com/rose-pine/discord-mobile/main/Assets/V06yN.png"|"https://raw.githubusercontent.com/rose-pine/wallpapers/refs/heads/main/illustration/birb.png"),
 		"alpha": 0.8,
 		"blur": 0.8
 	},

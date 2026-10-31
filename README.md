@@ -72,3 +72,11 @@ https://revenge.nexpid.xyz/themes-plus/
 ## Thanks to
 
 - [Moodzz](https://github.com/Moodzz1)
+
+<!-- BLOOM_BUILD_START -->
+This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
+
+```sh
+bloom build template.json --output dist --prefix $ --format hex
+```
+<!-- BLOOM_BUILD_END -->
