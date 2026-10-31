@@ -1,0 +1,541 @@
+{
+	"name": "$name",
+	"description": "$description.",
+	"authors": [
+		{
+			"name": "Moodle",
+			"id": "807170846497570848"
+		}
+	],
+	"semanticColors": {
+		"ANDROID_RIPPLE": [
+			"$highlightMed",
+			"$highlightMed"
+		],
+		"APP_FRAME_BORDER": [
+			"$overlay",
+			"$overlay"
+		],
+		"BACKGROUND_ACCENT": [
+			"$overlay",
+			"$overlay"
+		],
+		"BACKGROUND_BASE_LOW": [
+			"$surface",
+			"$surface"
+		],
+		"BACKGROUND_BASE_LOWER": [
+			"$base",
+			"$base"
+		],
+		"BACKGROUND_BASE_LOWEST": [
+			"$base",
+			"$base"
+		],
+		"BACKGROUND_BRAND": [
+			"$iris",
+			"$iris"
+		],
+		"BACKGROUND_CODE": [
+			"$base",
+			"$base"
+		],
+		"BACKGROUND_MENTIONED": [
+			"$iris/10",
+			"$iris/10"
+		],
+		"BACKGROUND_MESSAGE_HOVER": [
+			"$highlightMed",
+			"$highlightMed"
+		],
+		"BACKGROUND_MOBILE_PRIMARY": [
+			"$base",
+			"$base"
+		],
+		"BACKGROUND_MOBILE_SECONDARY": [
+			"$surface",
+			"$surface"
+		],
+		"BACKGROUND_MOD_MUTED": [
+			"$highlightMed",
+			"$highlightMed"
+		],
+		"BACKGROUND_MOD_NORMAL": [
+			"$highlightMed",
+			"$highlightMed"
+		],
+		"BACKGROUND_MOD_STRONG": [
+			"$muted",
+			"$muted"
+		],
+		"BACKGROUND_MODIFIER_ACCENT": [
+			"$overlay",
+			"$overlay"
+		],
+		"BACKGROUND_MODIFIER_ACTIVE": [
+			"$surface",
+			"$surface"
+		],
+		"BACKGROUND_MODIFIER_HOVER": [
+			"$highlightMed",
+			"$highlightMed"
+		],
+		"BACKGROUND_MODIFIER_SELECTED": [
+			"$highlightHigh",
+			"$highlightHigh"
+		],
+		"BACKGROUND_NESTED_FLOATING": [
+			"$base",
+			"$base"
+		],
+		"BACKGROUND_PRIMARY": [
+			"$base",
+			"$base"
+		],
+		"BACKGROUND_SCRIM": [
+			"$surface/50",
+			"$surface/50"
+		],
+		"BACKGROUND_SECONDARY": [
+			"$base",
+			"$base"
+		],
+		"BACKGROUND_SURFACE_HIGH": [
+			"$surface",
+			"$surface"
+		],
+		"BACKGROUND_SURFACE_HIGHEST": [
+			"$surface",
+			"$surface"
+		],
+		"BACKGROUND_TERTIARY": [
+			"$overlay",
+			"$overlay"
+		],
+		"BORDER_SUBTLE": [
+			"$overlay",
+			"$overlay"
+		],
+		"BORDER_STRONG": [
+			"$iris",
+			"$iris"
+		],
+		"BORDER_MUTED": [
+			"$overlay",
+			"$overlay"
+		],
+		"CARD_BACKGROUND_DEFAULT": [
+			"$surface",
+			"$surface"
+		],
+		"CARD_MUTED_BG": [
+			"$surface",
+			"$surface"
+		],
+		"CARD_SECONDARY_BACKGROUND_DEFAULT": [
+			"$overlay",
+			"$overlay"
+		],
+		"CARD_SECONDARY_BG": [
+			"$overlay",
+			"$overlay"
+		],
+		"CHANNEL_BACKGROUND_DEFAULT": [
+			"$base",
+			"$base"
+		],
+		"CHANNEL_ICON": [
+			"$subtle",
+			"$subtle"
+		],
+		"CHAT_BACKGROUND": [
+			"$surface",
+			"$surface"
+		],
+		"CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": [
+			"$love",
+			"$love"
+		],
+		"CHAT_INPUT_BACKGROUND": [
+			"$surface",
+			"$surface"
+		],
+		"CHAT_INPUT_ICON_DEFAULT_TINT": [
+			"$iris",
+			"$iris"
+		],
+		"CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
+			"$iris",
+			"$iris"
+		],
+		"CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
+			"$love",
+			"$love"
+		],
+		"CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
+			"$iris",
+			"$iris"
+		],
+		"CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
+			"$overlay",
+			"$overlay"
+		],
+		"EMBED_BACKGROUND": [
+			"$base",
+			"$base"
+		],
+		"GUILD_FOLDER_BACKGROUND": [
+			"$overlay",
+			"$overlay"
+		],
+		"HEADER_PRIMARY": [
+			"$text",
+			"$text"
+		],
+		"INPUT_BACKGROUND_DEFAULT": [
+			"$surface",
+			"$surface"
+		],
+		"INTERACTIVE_HOVER": [
+			"$highlightMed",
+			"$highlightMed"
+		],
+		"INTERACTIVE_ICON_DEFAULT": [
+			"$iris",
+			"$iris"
+		],
+		"INTERACTIVE_MUTED": [
+			"$muted",
+			"$muted"
+		],
+		"INTERACTIVE_TEXT_ACTIVE": [
+			"$text",
+			"$text"
+		],
+		"INTERACTIVE_TEXT_DEFAULT": [
+			"$text",
+			"$text"
+		],
+		"MENTION_BACKGROUND": [
+			"$muted/20",
+			"$muted/20"
+		],
+		"MENTION_FOREGROUND": [
+			"$iris",
+			"$iris"
+		],
+		"MESSAGE_HIGHLIGHT_BACKGROUND_DEFAULT": [
+			"$highlightMed/20",
+			"$highlightMed/20"
+		],
+		"MOBILE_ACTIONSHEET_BACKGROUND": [
+			"$base",
+			"$base"
+		],
+		"MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
+			"$muted4d",
+			"$muted4d"
+		],
+		"MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
+			"$surface",
+			"$surface"
+		],
+		"MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
+			"$surface",
+			"$surface"
+		],
+		"MOBILE_CHATINPUT_BORDER_ACTIVE": [
+			"$highlightMed",
+			"$highlightMed"
+		],
+		"MOBILE_CHATINPUT_BORDER_DEFAULT": [
+			"$overlay",
+			"$overlay"
+		],
+		"MOBILE_EMOJI_BUTTON_BACKGROUND": [
+			"$surface",
+			"$surface"
+		],
+		"MOBILE_FLOATINGBAR_BACKGROUND": [
+			"$overlay",
+			"$overlay"
+		],
+		"MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": [
+			"$overlay",
+			"$overlay"
+		],
+		"MOBILE_GUILDBAR_ICON_DEFAULT": [
+			"$text",
+			"$text"
+		],
+		"MOBILE_TEXT_HEADING_PRIMARY": [
+			"$text",
+			"$text"
+		],
+		"MOBILE_VOICE_MESSAGE_RECORDING_WAVEFORM_BAR_BACKGROUND": [
+			"$iris",
+			"$iris"
+		],
+		"NAVIGATOR_HEADER_TINT": [
+			"$love",
+			"$love"
+		],
+		"PANEL_BG": [
+			"$surface",
+			"$surface"
+		],
+		"POLLS_VICTOR_FILL": [
+			"$iris/60",
+			"$iris/60"
+		],
+		"POLLS_VOTED_FILL": [
+			"$iris/20",
+			"$iris/20"
+		],
+		"REACTION_BORDER_DEFAULT": [
+			"$highlightHigh",
+			"$highlightHigh"
+		],
+		"REACTION_BACKGROUND_DEFAULT": [
+			"$highlightHigh",
+			"$highlightHigh"
+		],
+		"REACTION_BACKGROUND_REACTED_DEFAULT": [
+			"$iris/20",
+			"$iris/20"
+		],
+		"REACTION_BORDER_REACTED_DEFAULT": [
+			"$iris",
+			"$iris"
+		],
+		"REDESIGN_CHANNEL_NAME_TEXT": [
+			"$text",
+			"$text"
+		],
+		"REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+			"$muted",
+			"$muted"
+		],
+		"REPLY_BAR": [
+			"$overlay",
+			"$overlay"
+		],
+		"STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+			"$surface",
+			"$surface"
+		],
+		"STATUS_POSITIVE": [
+			"$iris",
+			"$iris"
+		],
+		"SWITCH_BORDER_DEFAULT": [
+			"$muted",
+			"$muted"
+		],
+		"SWITCH_BORDER_SELECTED_DEFAULT": [
+			"$iris",
+			"$iris"
+		],
+		"SWITCH_BACKGROUND_DEFAULT": [
+			"$muted",
+			"$muted"
+		],
+		"SWITCH_BACKGROUND_SELECTED_DEFAULT": [
+			"$iris",
+			"$iris"
+		],
+		"SWITCH_THUMB_ICON_ACTIVE": [
+			"$iris",
+			"$iris"
+		],
+		"SWITCH_THUMB_ICON_DEFAULT": [
+			"$muted",
+			"$muted"
+		],
+		"SWITCH_THUMB_BACKGROUND_DEFAULT": [
+			"$text",
+			"$text"
+		],
+		"SWITCH_THUMB_BACKGROUND_SELECTED_DEFAULT": [
+			"$text",
+			"$text"
+		],
+		"TEXT_LINK": [
+			"$iris",
+			"$iris"
+		],
+		"TEXT_MUTED": [
+			"$muted",
+			"$muted"
+		],
+		"TEXT_DEFAULT": [
+			"$text",
+			"$text"
+		],
+		"TEXT_STRONG": [
+			"$text",
+			"$text"
+		],
+		"TEXT_SUBTLE": [
+			"$subtle",
+			"$subtle"
+		],
+		"TEXT_STATUS_ONLINE": [
+			"$foam",
+			"$foam"
+		],
+		"TEXT_STATUS_IDLE": [
+			"$gold",
+			"$gold"
+		],
+		"TEXT_STATUS_DND": [
+			"$love",
+			"$love"
+		],
+		"TEXT_STATUS_OFFLINE": [
+			"$muted",
+			"$muted"
+		],
+		"TEXT_STATUS_STREAMING": [
+			"$foam",
+			"$foam"
+		],
+		"TABLEROW_BACKGROUND_DEFAULT": [
+			"$surface",
+			"$surface"
+		],
+		"THREAD_CHANNEL_SPINE": [
+			"$subtle",
+			"$subtle"
+		]
+	},
+	"rawColors": {
+		"BLACK": "$base",
+		"PRIMARY_300": "$iris",
+		"PRIMARY_360": "$subtle",
+		"PRIMARY_400": "$rose",
+		"PRIMARY_460": "$overlay",
+		"PRIMARY_500": "$iris",
+		"PRIMARY_530": "#f09",
+		"PRIMARY_600": "$overlay",
+		"PRIMARY_630": "$overlay",
+		"PRIMARY_645": "$pine50",
+		"PRIMARY_660": "$overlay",
+		"PRIMARY_700": "$overlay",
+		"PRIMARY_800": "$base",
+		"PLUM_24": "$surface",
+		"PLUM_10": "$muted",
+		"PLUM_15": "$subtle",
+		"PLUM_16": "$overlay",
+		"PLUM_17": "$base",
+		"PLUM_18": "$overlay",
+		"PLUM_19": "$base",
+		"PLUM_20": "$base",
+		"PLUM_3": "$text",
+		"PLUM_4": "$pine50",
+		"BRAND_260": "$foam",
+		"BRAND_360": "$iris",
+		"BRAND_500": "$iris",
+		"BRAND_560": "$pine",
+		"BLUE_345": "$foam",
+		"GREEN_100": "$foam",
+		"GREEN_130": "$foam",
+		"GREEN_160": "$foam",
+		"GREEN_200": "$foam",
+		"GREEN_230": "$foam",
+		"GREEN_260": "$foam",
+		"GREEN_300": "$foam",
+		"GREEN_330": "$foam",
+		"GREEN_345": "$foam",
+		"GREEN_360": "$foam",
+		"GREEN_400": "$foam",
+		"GREEN_430": "$pine",
+		"GREEN_460": "$foam",
+		"GREEN_500": "$foam",
+		"GREEN_530": "$foam",
+		"GREEN_560": "$foam",
+		"GREEN_600": "$foam",
+		"GREEN_630": "$foam",
+		"GREEN_660": "$foam",
+		"GREEN_700": "$foam",
+		"GREEN_730": "$foam",
+		"GREEN_760": "$foam",
+		"GREEN_800": "$foam",
+		"GREEN_830": "$foam",
+		"GREEN_860": "$foam",
+		"GREEN_900": "$foam",
+		"GUILD_BOOSTING_PINK": "$love",
+		"GUILD_BOOSTING_PURPLE": "$iris",
+		"GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "$iris",
+		"RED_260": "$love",
+		"RED_300": "$love",
+		"RED_330": "$love",
+		"RED_345": "$love",
+		"RED_360": "$love",
+		"RED_400": "$love",
+		"RED_430": "$love",
+		"RED_460": "$love",
+		"RED_500": "$love",
+		"RED_530": "$love",
+		"RED_560": "$love",
+		"RED_600": "$love",
+		"RED_630": "$love",
+		"RED_660": "$love",
+		"RED_700": "$love",
+		"YELLOW_100": "$gold",
+		"YELLOW_130": "$gold",
+		"YELLOW_160": "$gold",
+		"YELLOW_200": "$gold",
+		"YELLOW_230": "$gold",
+		"YELLOW_260": "$gold",
+		"YELLOW_300": "$gold",
+		"YELLOW_330": "$gold",
+		"YELLOW_345": "$gold",
+		"YELLOW_360": "$gold",
+		"YELLOW_400": "$gold",
+		"YELLOW_430": "$gold",
+		"YELLOW_460": "$gold",
+		"YELLOW_500": "$gold",
+		"YELLOW_530": "$gold",
+		"YELLOW_560": "$gold",
+		"YELLOW_600": "$gold",
+		"YELLOW_630": "$gold",
+		"YELLOW_660": "$gold",
+		"YELLOW_700": "$gold",
+		"YELLOW_730": "$gold",
+		"YELLOW_760": "$gold",
+		"YELLOW_800": "$gold",
+		"YELLOW_830": "$gold",
+		"YELLOW_860": "$gold",
+		"YELLOW_900": "$gold",
+		"WHITE": "$text",
+		"WHITE_500": "$text",
+		"WHITE_630": "$subtle"
+	},
+	"background": {
+		"url": "https://i.postimg.cc/nr7T3bJ1/rosepine-flowers.avif",
+		"alpha": 0.8,
+		"blur": 0.8
+	},
+	"plus": {
+		"version": "0",
+		"customOverlays": true,
+		"mentionLineColor": "$gold",
+		"icons": {
+			"ic_radio_circle_checked": "$pine",
+			"ic_radio_circle_checked__overlay": "$text",
+			"ic_radio_square_24px": "$pine",
+			"ic_radio_square_checked_24px": "$pine",
+			"ic_radio_square_checked_24px__overlay": "$text",
+			"ic_selection_checked_24px": "$pine",
+			"ic_selection_checked_24px__overlay": "$text",
+			"StatusMobileOnline": "$foam",
+			"StatusIdle": "$gold",
+			"StatusDND": "$love",
+			"StatusOffline": "$muted",
+			"StatusOnline": "$foam",
+			"StatusStreaming": "$iris"
+		}
+	},
+	"spec": 2
+}
